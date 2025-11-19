@@ -43,5 +43,5 @@ A Java-based Hospital Management System designed to manage patient records, doct
 
 ---
 
-## 📂 Project Structure
+
 
